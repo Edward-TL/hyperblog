@@ -1,1 +1,5 @@
 Esta es la historia de Edward para aprender Git y GitHub para sobrevivir
+
+Hoy hablaremos de como esto puede servir de ejemplo
+
+Hola ke ase
